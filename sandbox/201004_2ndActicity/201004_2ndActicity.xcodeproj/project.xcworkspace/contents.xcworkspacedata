@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:zipcheck.xcodeproj">
+      location = "self:201004_2ndActicity.xcodeproj">
    </FileRef>
 </Workspace>

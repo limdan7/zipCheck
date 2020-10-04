@@ -1,15 +1,15 @@
 //
-//  zipcheckTests.swift
-//  zipcheckTests
+//  _01004_2ndActicityTests.swift
+//  201004_2ndActicityTests
 //
 //  Created by park wonyoung on 2020/10/04.
 //  Copyright © 2020 park wonyoung. All rights reserved.
 //
 
 import XCTest
-@testable import zipcheck
+@testable import _01004_2ndActicity
 
-class zipcheckTests: XCTestCase {
+class _01004_2ndActicityTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
