@@ -16,6 +16,7 @@
 		0B25B89F25294E2E004C75BB /* zipcheckTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B25B89E25294E2E004C75BB /* zipcheckTests.swift */; };
 		0B25B8AA25294E2E004C75BB /* zipcheckUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B25B8A925294E2E004C75BB /* zipcheckUITests.swift */; };
 		0B25B8B82529562C004C75BB /* CustomTextfield.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B25B8B72529562C004C75BB /* CustomTextfield.swift */; };
+		F54C60E72530946100D05979 /* otherViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F54C60E62530946100D05979 /* otherViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		0B25B8A925294E2E004C75BB /* zipcheckUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = zipcheckUITests.swift; sourceTree = "<group>"; };
 		0B25B8AB25294E2E004C75BB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0B25B8B72529562C004C75BB /* CustomTextfield.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTextfield.swift; sourceTree = "<group>"; };
+		F54C60E62530946100D05979 /* otherViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = otherViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				0B25B89025294E2D004C75BB /* Assets.xcassets */,
 				0B25B89225294E2D004C75BB /* LaunchScreen.storyboard */,
 				0B25B89525294E2D004C75BB /* Info.plist */,
+				F54C60E62530946100D05979 /* otherViewController.swift */,
 			);
 			path = zipcheck;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F54C60E72530946100D05979 /* otherViewController.swift in Sources */,
 				0B25B8B82529562C004C75BB /* CustomTextfield.swift in Sources */,
 				0B25B88C25294E2A004C75BB /* ViewController.swift in Sources */,
 				0B25B88825294E2A004C75BB /* AppDelegate.swift in Sources */,
