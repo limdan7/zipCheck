@@ -47,6 +47,8 @@ func sumAll (rusult: Int, arg: Int) -> Int {
 //문제4. retArray4의 원소의 글자 수가 4갸 이상인 원소를 출력해주세요
 var retArray4 : [String] = ["One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten"]
 
+////for문을 못만들었어요 ㅜㅜ
+
 //문제 5
 let occupation = ["사과", "바나나", "키위", "오렌지", "파인애플", "당근", "오이"]
 
