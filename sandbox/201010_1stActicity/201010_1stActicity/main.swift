@@ -55,7 +55,7 @@ let occupation = ["사과", "바나나", "키위", "오렌지", "파인애플", 
 var answer1 = [String]()
 
 for i in occupation {
-    if i.count == 3 {
+    if i.count == 0 {
         answer1.append(i)
     }
 }
