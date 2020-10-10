@@ -49,7 +49,7 @@ var retArray4 : [String] = ["One", "Two", "Three", "Four", "Five", "Six", "Seven
 
 ////for문을 못만들었어요 ㅜㅜ
 
-//문제 5
+//문제 5. 결과값이 바나나, 오렌지가 나오게 해주세요
 let occupation = ["사과", "바나나", "키위", "오렌지", "파인애플", "당근", "오이"]
 
 var answer1 = [String]()
